@@ -9,7 +9,7 @@ This project provides an example of Post CRUD operations in Laravel. It includes
 ```bash
 git clone https://github.com/HamidRM80/laravel-crud-example1.git
 ```
-2. in directory of project run these commands:
+2. in directory of project run these commands step by step:
 
 ```bash
 comoposer install
