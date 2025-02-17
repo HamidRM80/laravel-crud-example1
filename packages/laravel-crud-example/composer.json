@@ -1,0 +1,17 @@
+{
+    "name": "hamidreza/laravel-crud-example",
+    "description": "post crud example",
+    "autoload": {
+        "psr-4": {
+            "Hamidreza\\LaravelCrudExample\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hamidreza mokarrami"
+        }
+    ],
+    "require": {
+        "illuminate/support": ">=v8.0.0"
+    }
+}
